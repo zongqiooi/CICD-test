@@ -19,8 +19,6 @@ module.exports = {
     "@stylistic/js/linebreak-style": ["error", "unix"],
     indent: ["error", 2],
     "linebreak-style": ["error", "unix"],
-    quotes: ["error", "single"],
-    semi: ["error", "never"],
     eqeqeq: "error",
     "no-trailing-spaces": "error",
     "object-curly-spacing": ["error", "always"],
